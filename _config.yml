@@ -1,7 +1,7 @@
 title: J.Line's personal blog # The title of the blog
 author: J.Line # Your name 
 email: happpypie@163.com # your email shown in the footer
-url: http://huangyz.name/moving/ # this is your site's root address.
+url: https://happypie.github.io/ # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Welcome to J.Line's personal blog, it's all about my life and interests.
 favicon: "./favicon.ico" # set the favicon of the site 
