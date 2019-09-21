@@ -1,0 +1,16 @@
+title: J.Line's personal blog # The title of the blog
+author: J.Line # Your name 
+email: happpypie@163.com # your email shown in the footer
+url: http://huangyz.name/moving/ # this is your site's root address.
+description: > # this means to ignore newlines until "show_excerpts:"
+  Welcome to J.Line's personal blog, it's all about my life and interests.
+favicon: "./favicon.ico" # set the favicon of the site 
+github:  HappyPie
+date_format: "%b %d" # date format of posts in home page
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Build settings
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
